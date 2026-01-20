@@ -1,0 +1,40 @@
+p {
+	color: darkred;
+	font-family: Constantia, ˝Lucida Bright˝, ˝DejaVu serif˝, Georgia, ˝serif˝;
+	font-size: 16px;
+	line-height: 18px;
+	width: 800px;
+	background-color: lightgrey;
+	padding: 20px;
+}
+.paragraf2 {
+	color: violet; background-color: rgba(255, 255, 255, 0.9);
+}
+.noviblok {
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	margin: 20px;
+	width: 70%;
+}
+h1, h2, h3 {
+	font-family: Gotham, ˝Helvetica Neue˝, Helvetica, Arial, ˝sans-serif˝;
+	color: hotpink;
+}
+.pozadina {
+	background-image: url(slike/pozadina3.jpg);
+	background-size: cover;
+
+}
+.drugapozadina {
+	background-color: blanchedalmond;
+}
+a:link {
+	color: darkred;
+	background-color: lightgrey;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+a:hover {
+	background-color: lightgrey;
+}
